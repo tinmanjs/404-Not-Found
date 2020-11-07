@@ -1,0 +1,17 @@
+.mainImage {
+    display: block;
+    margin: 0 auto;
+    height: 414px;
+    width: 539px;
+  }
+
+.header {
+  font-family: "Space Mono";
+  text-align: center;
+}
+
+.footer {
+  padding-bottom: ;
+  text-align: center;
+  font-family: 'Space Mono';
+}
